@@ -6,3 +6,12 @@ public class Main {
 	// write your code here
     }
 }
+/*
+1. Ask how to create a text file in project
+method:
+    Method is function defined within an object
+class:
+function:
+field:
+variable:
+ */
